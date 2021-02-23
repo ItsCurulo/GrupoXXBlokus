@@ -1,0 +1,22 @@
+
+usuario_local@PTO0417 MINGW64 ~
+$ cd /c
+
+usuario_local@PTO0417 MINGW64 /c
+$ cd hlocal
+
+usuario_local@PTO0417 MINGW64 /c/hlocal
+$ cd GrupoXXBlokus
+
+usuario_local@PTO0417 MINGW64 /c/hlocal/GrupoXXBlokus
+$ git init
+Initialized empty Git repository in C:/hlocal/GrupoXXBlokus/.git/
+
+usuario_local@PTO0417 MINGW64 /c/hlocal/GrupoXXBlokus (master)
+$
+
+usuario_local@PTO0417 MINGW64 /c/hlocal/GrupoXXBlokus (master)
+$ git config user.name "Carlos Alba"
+
+usuario_local@PTO0417 MINGW64 /c/hlocal/GrupoXXBlokus (master)
+$  git config user.email caralb01@ucm.es
